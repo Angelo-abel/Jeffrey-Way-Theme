@@ -141,4 +141,4 @@ Edit the following line in `Packages --> facebook-color-scheme-master --> Facebo
 Please contact me if I have forgotten to mention a source.
 
 ###### Other Credits
-Font used in the screenshot is Input by David Jonathan Ross.
+Font used in the screenshot is a customized version of Input by David Jonathan Ross.
