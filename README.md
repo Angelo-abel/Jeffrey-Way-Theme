@@ -1,17 +1,16 @@
 # Jeffrey Way's Theme
-Jeffrey Way's theme on Laracasts. Example [here](https://laracasts.com/series/whats-new-in-laravel-5-1/episodes/2).
-
-If you have SyncedSidebarBg enabled in Package Control, please disable that!
 
 <img src="http://i.imgur.com/oUA3alz.png" />
 
+If you have SyncedSidebarBg enabled in Package Control, please disable that!
+
 ## Install Themes
-+ Package Control: Install Package --> Material Theme.
-+ Install the Facebook Theme: https://github.com/mbixby/facebook-color-scheme
+1. Package Control: Install Package --> Material Theme.
+2. Install the Facebook Theme: https://github.com/mbixby/facebook-color-scheme
 
 ## Configure
 
-Edit `Preferences --> Settings - User` to the following:
+1. Edit `Preferences --> Settings - User` to the following:
 
 ````json
 {
@@ -50,7 +49,7 @@ Edit `Preferences --> Settings - User` to the following:
 }
 ````
 
-Edit `Material-Theme-Darker.sublime-theme`
+2. Edit `Material-Theme-Darker.sublime-theme`
 
 ````json
 [
@@ -121,7 +120,7 @@ Edit `Material-Theme-Darker.sublime-theme`
 ]
 ````
 
-Edit the following line in `Packages --> facebook-color-scheme-master --> Facebook.tmTheme`
+3. Edit the following line in `Packages --> facebook-color-scheme-master --> Facebook.tmTheme`
 
 ````json
 <string>
