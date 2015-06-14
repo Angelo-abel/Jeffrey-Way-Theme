@@ -125,12 +125,12 @@ Edit the following line in `Packages --> facebook-color-scheme-master --> Facebo
 
 ````
 <string>
-        263238 - Fb background
-      </string>
-      <key>settings</key>
-      <dict>
-        <key>background</key>
-        <string>#263238</string>
+263238 - Fb background
+</string>
+    <key>settings</key>
+    <dict>
+    <key>background</key>
+    <string>#263238</string>
 ````
 
 ## Credits
