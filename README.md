@@ -13,7 +13,7 @@ If you have SyncedSidebarBg enabled in Package Control, please disable that!
 
 Edit `Preferences --> Settings - User` to the following:
 
-````
+````json
 {
 	"auto_complete": true,
 	"auto_indent": true,
@@ -52,7 +52,7 @@ Edit `Preferences --> Settings - User` to the following:
 
 Edit `Material-Theme-Darker.sublime-theme`
 
-````
+````json
 [
     {
         "class": "tree_row",
@@ -123,7 +123,7 @@ Edit `Material-Theme-Darker.sublime-theme`
 
 Edit the following line in `Packages --> facebook-color-scheme-master --> Facebook.tmTheme`
 
-````
+````json
 <string>
 263238 - Fb background
 </string>
