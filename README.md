@@ -1,6 +1,6 @@
 # Jeffrey Way's Theme
 
-<img src="http://i.imgur.com/oUA3alz.png" />
+<img src="http://i.imgur.com/d9E0BF1.png" />
 
 ## Install Themes
 If you have SyncedSidebarBg enabled in Package Control, please disable that!
