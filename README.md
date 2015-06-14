@@ -22,7 +22,7 @@ Edit `Preferences --> Settings - User` to the following:
 	"default_encoding": "UTF-8",
 	"detect_indentation": true,
 	"draw_indent_guides": true,
-	"draw_white_space": "none",
+	"draw_white_space": true,
 	"enable_tab_scrolling": false,
 	"font_face": "Input",
 	"font_size": 13,
