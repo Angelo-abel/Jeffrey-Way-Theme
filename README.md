@@ -10,7 +10,7 @@ If you have SyncedSidebarBg enabled in Package Control, please disable that!
 
 ## Configure
 
-1. Edit `Preferences --> Settings - User` to the following:
+Edit `Preferences --> Settings - User` to the following:
 
 ````json
 {
@@ -49,7 +49,7 @@ If you have SyncedSidebarBg enabled in Package Control, please disable that!
 }
 ````
 
-2. Edit `Material-Theme-Darker.sublime-theme`
+Edit `Material-Theme-Darker.sublime-theme`
 
 ````json
 [
@@ -120,7 +120,7 @@ If you have SyncedSidebarBg enabled in Package Control, please disable that!
 ]
 ````
 
-3. Edit the following line in `Packages --> facebook-color-scheme-master --> Facebook.tmTheme`
+Edit the following line in `Packages --> facebook-color-scheme-master --> Facebook.tmTheme`
 
 ````json
 <string>
