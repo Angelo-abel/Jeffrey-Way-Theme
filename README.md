@@ -137,5 +137,4 @@ Edit the following line in `Packages --> facebook-color-scheme-master --> Facebo
 + [equinosocia](http://equinusocio.github.io/material-theme/) - Material Theme.
 + [Jeffrey Way](https://github.com/JeffreyWay).
 
-### Important
 Please contact me if I have forgotten to mention a source.
