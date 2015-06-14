@@ -3,6 +3,8 @@ Jeffrey Way's theme on Laracasts. Example [here](https://laracasts.com/series/wh
 
 If you have SyncedSidebarBg enabled in Package Control, please disable that!
 
+<img src="http://i.imgur.com/oUA3alz.png" />
+
 ## Install Material Theme
 + Package Control: Install Package --> Material Theme.
 + Install the Facebook Theme: https://github.com/mbixby/facebook-color-scheme
