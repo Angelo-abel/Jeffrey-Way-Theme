@@ -1,4 +1,4 @@
-# Jeffrey Way's Theme
+# Jeffrey Way's Theme - Sublime Text 3
 
 <img src="http://i.imgur.com/d9E0BF1.png" />
 
