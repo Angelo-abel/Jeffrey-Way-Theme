@@ -1,5 +1,5 @@
 # Jeffrey Way's Theme
-Jeffrey Way's theme on Laracasts. Example here: https://laracasts.com/series/whats-new-in-laravel-5-1/episodes/2
+Jeffrey Way's theme on Laracasts. Example [here](https://laracasts.com/series/whats-new-in-laravel-5-1/episodes/2).
 
 If you have SyncedSidebarBg enabled in Package Control, please disable that!
 
