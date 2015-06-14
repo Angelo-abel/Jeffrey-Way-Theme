@@ -1,9 +1,15 @@
 # Jeffrey Way's Theme
 Jeffrey Way's theme on Laracasts. Example here: https://laracasts.com/series/whats-new-in-laravel-5-1/episodes/2
 
+If you have SyncedSidebarBg enabled in Package Control, please disable that!
+
 ## Install Material Theme
 + Package Control: Install Package --> Material Theme.
-+ Edit Preferences --> Settings - User to the following:
++ Install the Facebook Theme: https://github.com/mbixby/facebook-color-scheme
+
+## Configure
+
+Edit `Preferences --> Settings - User` to the following:
 
 ````
 {
@@ -23,8 +29,7 @@ Jeffrey Way's theme on Laracasts. Example here: https://laracasts.com/series/wha
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SyncedSidebarBg"
+		"Vintage"
 	],
 	"indent_subsequent_lines": true,
 	"line_numbers": false,
@@ -42,12 +47,82 @@ Jeffrey Way's theme on Laracasts. Example here: https://laracasts.com/series/wha
 	"wrap_width": 0
 }
 ````
-If you have SyncedSidebarBg enabled in Package Control, please disable that.
 
-- Install the Facebook Theme found here: https://github.com/mbixby/facebook-color-scheme
- 
-##Configure
-- Edit 
+Edit `Material-Theme-Darker.sublime-theme`
 
-#### Important
- **Please contact me if I have forgotten to mention a source.**
+````
+[
+    {
+        "class": "tree_row",
+        "layer0.texture": "Theme - Default/row_highlight_dark.png",
+        "layer0.tint": [
+            87,
+            93,
+            107
+        ]
+    },
+    {
+        "class": "sidebar_container",
+        "layer0.opacity": 1.0,
+        "color": [
+            37,
+            43,
+            57
+        ]
+    },
+    {
+        "class": "sidebar_tree",
+        "dark_content": true,
+        "layer0.opacity": 1,
+        "color": [
+            37,
+            43,
+            57
+        ]
+    },
+    {
+        "class": "sidebar_label",
+        "layer0.tint": [
+            87,
+            93,
+            107
+        ]
+    },
+    {
+        "class": "sidebar_heading",
+        "shadow_offset": [
+            0,
+            0
+        ]
+    },
+    {
+        "class": "disclosure_button_control",
+        "layer0.tint": [
+            87,
+            93,
+            107
+        ],
+        "layer1.tint": [
+            87,
+            93,
+            107
+        ]
+    },
+    {
+        "class": "sidebar_heading",
+        "layer0.tint": [
+            127,
+            133,
+            147
+        ]
+    }
+]
+````
+
+#### Credits
+[mbixby](https://github.com/mbixby/facebook-color-scheme) - Facebook Theme
+[equinosocia](http://equinusocio.github.io/material-theme/) - Material Theme
+[Jeffrey Way](https://github.com/JeffreyWay)
+
+##### Important
+Please contact me if I have forgotten to mention a source.
