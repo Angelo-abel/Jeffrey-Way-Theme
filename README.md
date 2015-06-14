@@ -2,9 +2,9 @@
 
 <img src="http://i.imgur.com/oUA3alz.png" />
 
+## Install Themes
 If you have SyncedSidebarBg enabled in Package Control, please disable that!
 
-## Install Themes
 1. Package Control: Install Package --> Material Theme.
 2. Install the Facebook Theme: https://github.com/mbixby/facebook-color-scheme
 
