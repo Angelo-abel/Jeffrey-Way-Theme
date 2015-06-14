@@ -121,7 +121,9 @@ Edit `Material-Theme-Darker.sublime-theme`
 
 #### Credits
 [mbixby](https://github.com/mbixby/facebook-color-scheme) - Facebook Theme
+
 [equinosocia](http://equinusocio.github.io/material-theme/) - Material Theme
+
 [Jeffrey Way](https://github.com/JeffreyWay)
 
 ##### Important
