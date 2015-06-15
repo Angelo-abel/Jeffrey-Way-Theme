@@ -141,7 +141,7 @@ Edit the following line in `Packages --> facebook-color-scheme-master --> Facebo
 Please contact me if I have forgotten to mention a source.
 
 ##### Issues
-Please post any and all issues here.
+Please post any and all issues [here](https://github.com/christopherburton/Jeffrey-Way-Theme/issues).
 
 ###### Other Credits
 Font used in the screenshot is a customized version of Input by David Jonathan Ross.
