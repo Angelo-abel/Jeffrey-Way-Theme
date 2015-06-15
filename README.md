@@ -6,7 +6,7 @@
 If you have SyncedSidebarBg enabled in Package Control, please disable that!
 
 1. Package Control: Install Package --> Material Theme.
-2. Install the [Facebook Theme](https://github.com/mbixby/facebook-color-scheme) by placing the folder within the Packages directory.
+2. Download the [Facebook Theme](https://github.com/mbixby/facebook-color-scheme) zip and place the folder within the Packages directory.
 
 ## Configure
 
