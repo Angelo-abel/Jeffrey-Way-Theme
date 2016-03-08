@@ -42,16 +42,17 @@ Edit `Preferences --> Settings - User` to the following:
 	"smart_indent": true,
 	"tab_completion": true,
 	"tab_size": 4,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"trim_automatic_white_space": true,
 	"word_wrap": true,
 	"wrap_width": 0
 }
 ````
 
-Edit `Material-Theme-Darker.sublime-theme`
+Edit `Material-Theme-Darker.sublime-theme` and place the below at the bottom of the file:
 
 ````json
+// Custom
 [
     {
         "class": "tree_row",
