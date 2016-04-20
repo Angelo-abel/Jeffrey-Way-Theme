@@ -3,7 +3,7 @@
 <img src="http://i.imgur.com/d9E0BF1.png" />
 
 ## Update
-This should be much easier to install now. Please follow the following simple directions.
+This should be much easier to install now. Please follow the directions below.
 
 ### Directions
 + Download the zip of this project and rename the folder to `Jeffrey Way Theme`.
