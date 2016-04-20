@@ -2,136 +2,20 @@
 
 <img src="http://i.imgur.com/d9E0BF1.png" />
 
-## Install Themes
-If you have SyncedSidebarBg enabled in Package Control, please disable that!
+## Update
+This should be much easier to install now. Please follow the following simple directions.
 
-1. Package Control: Install Package --> Material Theme (follow their setup instructions).
-2. Download the [Facebook Theme](https://github.com/mbixby/facebook-color-scheme) zip and place the folder within the Packages directory.
+### Directions
++ Download the zip of this project and rename the folder to `Jeffrey Way Theme`.
++ In Sublime, go to **Preferences > Browse Packages** and move the `Jeffrey Way Theme` folder to that location.
++ Go to **Preferences > Settings-User** and change the following settings to this: 
 
-## Configure
+```json
+"color_scheme": "Packages/Jeffrey Way Theme/schemes/Facebook.tmTheme",
+"theme": "Material-Theme.sublime-theme",
+```
 
-Edit `Preferences --> Settings - User` to the following:
-
-````json
-{
-	"auto_complete": true,
-	"auto_indent": true,
-	"bold_folder_labels": true,
-	"caret_style": "phase",
-	"color_scheme": "Packages/facebook-color-scheme-master/Facebook.tmTheme",
-	"default_encoding": "UTF-8",
-	"detect_indentation": true,
-	"draw_indent_guides": true,
-	"draw_white_space": true,
-	"enable_tab_scrolling": false,
-	"font_face": "Input",
-	"font_size": 13,
-	"gutter": true,
-	"highlight_line": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"indent_subsequent_lines": true,
-	"line_numbers": false,
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
-	"margin": 4,
-	"overlay_scroll_bars": "enabled",
-	"preview_on_click": false,
-	"smart_indent": true,
-	"tab_completion": true,
-	"tab_size": 4,
-	"theme": "Material-Theme.sublime-theme",
-	"trim_automatic_white_space": true,
-	"word_wrap": true,
-	"wrap_width": 0
-}
-````
-
-Edit `Material-Theme.sublime-theme` and place the below at the bottom of the file:
-
-````json
-// Custom
-[
-    {
-        "class": "tree_row",
-        "layer0.texture": "Theme - Default/row_highlight_dark.png",
-        "layer0.tint": [
-            87,
-            93,
-            107
-        ]
-    },
-    {
-        "class": "sidebar_container",
-        "layer0.opacity": 1.0,
-        "color": [
-            37,
-            43,
-            57
-        ]
-    },
-    {
-        "class": "sidebar_tree",
-        "dark_content": true,
-        "layer0.opacity": 1,
-        "color": [
-            37,
-            43,
-            57
-        ]
-    },
-    {
-        "class": "sidebar_label",
-        "layer0.tint": [
-            87,
-            93,
-            107
-        ]
-    },
-    {
-        "class": "sidebar_heading",
-        "shadow_offset": [
-            0,
-            0
-        ]
-    },
-    {
-        "class": "disclosure_button_control",
-        "layer0.tint": [
-            87,
-            93,
-            107
-        ],
-        "layer1.tint": [
-            87,
-            93,
-            107
-        ]
-    },
-    {
-        "class": "sidebar_heading",
-        "layer0.tint": [
-            127,
-            133,
-            147
-        ]
-    }
-]
-````
-
-Edit the following line in `Packages --> facebook-color-scheme-master --> Facebook.tmTheme`
-
-````json
-<string>
-263238 - Fb background
-</string>
-    <key>settings</key>
-    <dict>
-    <key>background</key>
-    <string>#263238</string>
-````
+You should be good from here. Let me know if issues arise.
 
 ## Credits
 + [mbixby](https://github.com/mbixby/facebook-color-scheme) - Facebook Theme.
