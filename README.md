@@ -49,7 +49,7 @@ Edit `Preferences --> Settings - User` to the following:
 }
 ````
 
-Edit `Material-Theme-Darker.sublime-theme` and place the below at the bottom of the file:
+Edit `Material-Theme.sublime-theme` and place the below at the bottom of the file:
 
 ````json
 // Custom
