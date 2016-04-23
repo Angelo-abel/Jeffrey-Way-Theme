@@ -1,6 +1,6 @@
 # Jeffrey Way's Theme - Sublime Text 3
 
-<img src="http://cl.ly/3g1x0q0v1u3b.png" />
+<img src="https://s3.amazonaws.com/f.cl.ly/items/3y211z3l0l3T2Y0p1i2L/Screen%20Shot%202016-04-23%20at%202.49.26%20PM.png" />
 
 ## Update
 This should be much easier to install now. Please follow the directions below.
