@@ -2,6 +2,12 @@
 
 <img src="https://s3.amazonaws.com/f.cl.ly/items/3y211z3l0l3T2Y0p1i2L/Screen%20Shot%202016-04-23%20at%202.49.26%20PM.png" />
 
+<img src="https://s3.amazonaws.com/f.cl.ly/items/0u273t043b3N1f2B1J3R/Screen%20Shot%202016-04-23%20at%202.56.39%20PM.png" />
+
+<img src="https://s3.amazonaws.com/f.cl.ly/items/0B122z1j0a2G1w3R2t1z/Screen%20Shot%202016-04-23%20at%202.56.12%20PM.png" />
+
+<img src="https://s3.amazonaws.com/f.cl.ly/items/0C0n0J030s0y3p1G452x/Screen%20Shot%202016-04-23%20at%202.57.25%20PM.png" />
+
 ## Update
 This should be much easier to install now. Please follow the directions below.
 
