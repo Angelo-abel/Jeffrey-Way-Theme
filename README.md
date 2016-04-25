@@ -14,7 +14,8 @@ This should be much easier to install now. Please follow the directions below.
 ### Directions
 + Download the zip of this project and rename the folder to `Jeffrey Way Theme`.
 + In Sublime, go to **Preferences > Browse Packages** and move the `Jeffrey Way Theme` folder to that location.
-+ Go to **Preferences > Settings-User** and change the following settings to this: 
++ **Do not erase all your settings. Only change the following:** 
+	- Go to **Preferences > Settings-User** and change `color_scheme` and `theme` to this: 
 
 ```json
 "color_scheme": "Packages/Jeffrey Way Theme/schemes/Facebook.tmTheme",
