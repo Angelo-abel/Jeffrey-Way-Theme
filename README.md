@@ -12,6 +12,7 @@
 This should be much easier to install now. Please follow the directions below.
 
 ### Directions
++ Download and install the original [Material Theme](http://equinusocio.github.io/material-theme/), first.
 + Download the zip of this project and rename the folder to `Jeffrey Way Theme`.
 + In Sublime, go to **Preferences > Browse Packages** and move the `Jeffrey Way Theme` folder to that location.
 + **Do not erase all your settings. Only change the following:** 
