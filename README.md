@@ -1,7 +1,6 @@
 # Jeffrey Way's Theme - Sublime Text 3
 
-<img src="http://cl.ly/401e2S2y023I/download/
-Screen%20Shot%202017-02-11%20at%203.31.11%20AM.png" />
+<img src="http://cl.ly/401e2S2y023I/download/Screen%20Shot%202017-02-11%20at%203.31.11%20AM.png" />
 
 <img src="https://s3.amazonaws.com/f.cl.ly/items/3y211z3l0l3T2Y0p1i2L/Screen%20Shot%202016-04-23%20at%202.49.26%20PM.png" />
 
