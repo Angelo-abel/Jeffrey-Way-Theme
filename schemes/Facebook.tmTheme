@@ -172,7 +172,7 @@
 	  <key>name</key>
 	  <string>Name.Builtin</string>
 	  <key>scope</key>
-	  <string>variable.other</string>
+	  <string>variable.other.php, variable.parameter.php</string>
 	  <key>settings</key>
 	  <dict>
 		<key>comment</key>
@@ -200,7 +200,7 @@
 	  <key>name</key>
 	  <string>Name.Class</string>
 	  <key>scope</key>
-	  <string>entity.name.type, entity.other.inherited-class, support.class</string>
+	  <string>entity.name.class, entity.name.type, entity.other.inherited-class, support.class</string>
 	  <key>settings</key>
 	  <dict>
 		<key>comment</key>
